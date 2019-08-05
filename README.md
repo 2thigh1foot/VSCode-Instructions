@@ -3,7 +3,7 @@
 
 1. Once we make changes to the files click on the 3rd tab (middle tab) that has the branches.
 
-<center> ![tab bar](tabbar.png) </center>
+<center><img src="tabbar.png" alt="tabbar"></center>
 
 2. Then we need to click on the pluses in the git control tab to stage all the files that were changed. You can also click the pluses one by one per file if you don't want to add a certain file to the stage area
 

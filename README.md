@@ -1,5 +1,5 @@
 ## VSCode Git Instructions
-#### Disclaimer: I haven't tried this with multiple accounts on Github, but it works with mine. I'm thinking that if the student has multiple github accounts, configure the local .git file to the user settings that the account is used for. i.e `git config user.name "CianteJones"` rather than `git config --global user.name "Ciante Jones"` I think this could fix the issue Prof. Bang was having with the UI. I don't know.
+#### Disclaimer: I haven't tried this with multiple accounts on Github, but it works with mine. I'm thinking that if the student has multiple github accounts, configure the local .git file to the user settings that the account is used for. i.e `git config user.name "CianteJones"` rather than `git config --global user.name "Ciante Jones"` I think this could fix the issue Prof. Bang was having with the UI. I don't know what changes we would to make.
 
 1. Once we make changes to the files click on the 3rd tab (middle tab) that has the branches.
 <p align="center">

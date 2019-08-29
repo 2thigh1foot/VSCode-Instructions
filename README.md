@@ -1,9 +1,31 @@
 ## VSCode Git Instructions
 #### Disclaimer: I haven't tried this with multiple accounts on Github, but it works with mine. I'm thinking that if the student has multiple github accounts, configure the local .git file to the user settings that the account is used for. i.e `git config user.name "CianteJones"` rather than `git config --global user.name "Ciante Jones"` I think this could fix the issue Prof. Bang was having with the UI. I don't know what changes we would to make to this file.
 
-It shows up here
+#### Cloning a repo
+1. Go to View > Command Palette or if on a Mac (Cmd - Shift - P) or on Windows (Ctrl - Shift - P)
+
+2. Type git clone into the search and click the first result
+
+<p align="center">
+  <img height="350px" src="palette.png" alt="Command Palette">
+</p>
+
+3. It will ask for a repository URL. Go to your github assignment, click the Clone or download button, copy the URL.
+
+<p align="center">
+  <img height="350px" src="url.png" alt="Github Url">
+</p>
+
+4. Paste the URL into the repository URL and choose the location where you want to clone the repository.
+
+<p align="center">
+  <img height="350px" src="urlpaste.png" alt="URL in VSCode">
+</p>
+
+#### Committing files
 
 1. Once we make changes to the files click on the 3rd tab (middle tab) that has the branches.
+
 <p align="center">
   <img height="350px" src="tabbar.png" alt="tabbar">
 </p>
@@ -20,7 +42,9 @@ It shows up here
   <img src="commit.png" alt="commiting">
 </p>
 
-4. After you commit, you need to click on the horizontal ellipsis in the Source Control tab, and click the push. This automatically did it for me, and I'm unsure of what happens with multiple users since I only have my Github account on this computer.
+#### Pushing files to github repo
+
+1. After you commit, you need to click on the horizontal ellipsis in the Source Control tab, and click the push. This automatically did it for me, and I'm unsure of what happens with multiple users since I only have my Github account on this computer.
 
 <p align="center">
   <img src="push.png" alt="pushing">

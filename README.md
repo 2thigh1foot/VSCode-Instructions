@@ -7,19 +7,19 @@
 2. Type git clone into the search and click the first result
 
 <p align="center">
-  <img height="350px" src="palette.png" alt="Command Palette">
+  <img src="palette.png" alt="Command Palette">
 </p>
 
 3. It will ask for a repository URL. Go to your github assignment, click the Clone or download button, copy the URL.
 
 <p align="center">
-  <img height="350px" src="url.png" alt="Github Url">
+  <img src="url.png" alt="Github Url">
 </p>
 
 4. Paste the URL into the repository URL and choose the location where you want to clone the repository.
 
 <p align="center">
-  <img height="350px" src="urlpaste.png" alt="URL in VSCode">
+  <img src="urlpaste.png" alt="URL in VSCode">
 </p>
 
 #### Committing files

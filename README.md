@@ -22,6 +22,8 @@
   <img src="urlpaste.png" alt="URL in VSCode">
 </p>
 
+Your repository will should now be on your computer in the location you chose to clone it!
+
 #### Committing files
 
 1. Once we make changes to the files click on the 3rd tab (middle tab) that has the branches.
